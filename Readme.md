@@ -28,7 +28,7 @@ pip install keras
 pip install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.1/imageai-2.0.1-py3-none-any.whl
 
 file "resnet50_coco_best_v2.0.1.h5" is the  RetinaNet model file that will be used for object detection.
-Download it from https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5
+Download it from http://bit.ly/2KZIBUu
 
 
 Run object_detection1.py and wait the results to print out at the console
